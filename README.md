@@ -1,0 +1,1 @@
+A simple Python-based rule-based chatbot that responds to user queries using predefined rules (if-else conditions). This project demonstrates how a chatbot can simulate conversation without using advanced NLP or machine learning techniques.
